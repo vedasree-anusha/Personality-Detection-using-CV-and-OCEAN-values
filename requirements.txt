@@ -1,3 +1,4 @@
 streamlit
 docx2txt
 pdfplumber
+PdfFileReader
